@@ -17,5 +17,6 @@
 ## 에브릿 명세서 바로가기
 - [에브릿 기능 명세서](https://www.notion.so/20f9ae76c4114619901e706a2ae0c945?pvs=4)
 - [에브릿 ERD](https://www.erdcloud.com/d/zQukBDYhbdcHZyPSw)
+      <img width="1260" alt="스크린샷 2023-10-12 오후 4 29 30" src="https://github.com/Kernel360/boot-up1-evereat/assets/68376744/4f3f5ec7-48df-4776-9429-92ef6cab0681">
 
 
