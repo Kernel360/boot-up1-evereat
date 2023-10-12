@@ -15,7 +15,7 @@
 3. 지도에서 맛집 찾기
 
 ## 에브릿 명세서 바로가기
-[에브릿 기능 명세서](https://www.notion.so/20f9ae76c4114619901e706a2ae0c945?pvs=4)
-[에브릿 ERD](https://www.erdcloud.com/d/zQukBDYhbdcHZyPSw)
+- [에브릿 기능 명세서](https://www.notion.so/20f9ae76c4114619901e706a2ae0c945?pvs=4)
+- [에브릿 ERD](https://www.erdcloud.com/d/zQukBDYhbdcHZyPSw)
 
 
