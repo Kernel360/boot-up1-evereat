@@ -23,5 +23,11 @@
 - [에브릿 와이어프레임](https://www.figma.com/file/eZwPGzAF6Q6BFYAkJsF52e/evereat?type=design&node-id=0%3A1&mode=design&t=CDyPMleeumjw4JM6-1)
 - [에브릿 API 명세서](https://www.notion.so/evereat-API-975944d5631b410d992bbe97acd9a4e8?pvs=4)
 
-
+![스크린샷 2023-10-14 오전 8 02 46](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/77b2ce02-758c-485a-b76b-c4820829d9fb)
+![스크린샷 2023-10-14 오전 8 03 17](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/604afccd-c34e-492d-985f-e74edf32d644)
+![스크린샷 2023-10-14 오전 8 03 30](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/d697567d-370b-4df2-8bbe-81b98b3aac02)
+![스크린샷 2023-10-14 오전 8 03 49](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/edb19eb5-e67c-4233-b559-d9abf1cc6b2a)
+![스크린샷 2023-10-14 오전 8 03 59](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/df910824-41b3-4794-8b11-ab86ce4917dd)
+![스크린샷 2023-10-14 오전 8 04 12](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/60515bbc-0873-4772-92f2-61c95cc62ce0)
+![스크린샷 2023-10-14 오전 8 04 26](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/6849bd2b-3f11-4894-bd14-4efc9ed4a882)
 
