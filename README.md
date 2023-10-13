@@ -22,7 +22,7 @@
 
 - [에브릿 와이어프레임](https://www.figma.com/file/eZwPGzAF6Q6BFYAkJsF52e/evereat?type=design&node-id=0%3A1&mode=design&t=CDyPMleeumjw4JM6-1)
 - [에브릿 API 명세서](https://www.notion.so/evereat-API-975944d5631b410d992bbe97acd9a4e8?pvs=4)
-
+[팀원 (3일차) : 안소현, 오동걸, 이종찬, 신종민, 우무룡, 김현지]
 ![스크린샷 2023-10-14 오전 8 02 46](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/77b2ce02-758c-485a-b76b-c4820829d9fb)
 ![스크린샷 2023-10-14 오전 8 03 17](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/604afccd-c34e-492d-985f-e74edf32d644)
 ![스크린샷 2023-10-14 오전 8 03 30](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/d697567d-370b-4df2-8bbe-81b98b3aac02)
