@@ -1,4 +1,4 @@
-# boot-up1-evereat
+# boot-up-evereat 4팀
 
 ## 서비스 타겟층
 ### pain point
@@ -31,4 +31,3 @@
 ![스크린샷 2023-10-14 오전 8 04 12](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/60515bbc-0873-4772-92f2-61c95cc62ce0)
 ![스크린샷 2023-10-14 오전 8 04 26](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/6849bd2b-3f11-4894-bd14-4efc9ed4a882)
 
-aqrms
