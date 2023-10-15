@@ -1,4 +1,4 @@
-# boot-up1-evereat
+# boot-up1-evereat - 이종찬
 
 ## 서비스 타겟층
 ### pain point
