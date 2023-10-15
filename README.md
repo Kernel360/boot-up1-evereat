@@ -38,4 +38,7 @@
 ![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/fe2a6370-8aa0-460f-a339-37d14f7feb26)
 ![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/291560ab-ee51-4149-8e72-3ded54f17fbb)
 
+## 에브릿 기술 스택
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
