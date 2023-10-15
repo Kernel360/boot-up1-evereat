@@ -31,3 +31,11 @@
 ![스크린샷 2023-10-14 오전 8 04 12](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/60515bbc-0873-4772-92f2-61c95cc62ce0)
 ![스크린샷 2023-10-14 오전 8 04 26](https://github.com/ShineCorine/boot-up1-evereat/assets/124959156/6849bd2b-3f11-4894-bd14-4efc9ed4a882)
 
+## 에브릿 와이어프레임
+![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/238bdf0d-c3d5-470f-a8f7-9bd65636ce04)
+![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/a9230f2a-9510-42c5-9aa0-36c8707df182)
+![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/71eec721-0994-456b-97e1-4285856a618d)
+![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/fe2a6370-8aa0-460f-a339-37d14f7feb26)
+![image](https://github.com/aacara/boot-up1-evereat/assets/86637372/291560ab-ee51-4149-8e72-3ded54f17fbb)
+
+
